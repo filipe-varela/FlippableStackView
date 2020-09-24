@@ -1,4 +1,4 @@
-**Nota**: Este fork vai ser usado como refência para um outro projeto: TimeSelector - um sistema de combinações com filmes e séries entre amigos e/ou casais; A ideia é utilizar esta ferramente para futuros projetos.
+**Nota**: Este fork vai ser usado como referência para um outro projeto: TimeSelector - um sistema de combinações com filmes e séries entre amigos e/ou casais; A ideia é utilizar esta ferramente para futuros projetos.
 
 
 FlippableStackView
